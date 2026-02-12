@@ -105,6 +105,8 @@ ol {
 
 .search-form__textfield {
   padding-left: 0;
+  width: 225px;
+  font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 18px;
   font-weight: 400;
   line-height: 100%;
